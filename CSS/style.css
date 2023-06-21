@@ -42,7 +42,7 @@ body{
 }
 
 .box:hover{
-  background-color: #33333;
+  background-color: #101010;
   border:1px solid #112046;
   border-radius:5px;
   padding-left:10px;
