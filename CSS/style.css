@@ -3,6 +3,27 @@
   src: url('https://typicalgitcoder997.github.io/EuroHsrTiranga/fonts/Montserrat.woff') format('woff');
 }
 
+@font-face{
+  font-family:M-Bold;
+  src: url('https://typicalgitcoder997.github.io/EuroHsrTiranga/fonts/1Montserrat-Bold.woff') format('woff');
+}
+@font-face{
+  font-family:M-Semi;
+  src: url('https://typicalgitcoder997.github.io/EuroHsrTiranga/fonts/2Montserrat-SemiBold.woff') format('woff');
+}
+@font-face{
+  font-family:M-Medium;
+  src: url('https://typicalgitcoder997.github.io/EuroHsrTiranga/fonts/3Montserrat-Medium.woff') format('woff');
+}
+@font-face{
+  font-family:M-Regular;
+  src: url('https://typicalgitcoder997.github.io/EuroHsrTiranga/fonts/4Montserrat-Regular.woff') format('woff');
+}
+@font-face{
+  font-family:M-Light;
+  src: url('https://typicalgitcoder997.github.io/EuroHsrTiranga/fonts/5Montserrat-ExtraLight.woff') format('woff');
+}
+
 body{
   color:white;
   font-size:24px;
