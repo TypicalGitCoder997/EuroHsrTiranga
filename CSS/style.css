@@ -18,6 +18,7 @@ body{
 }
 
 .box:hover{
+  cursor:crosshair;
   border:1px solid blue;
   padding-left:10px;
   padding-right:10px;
