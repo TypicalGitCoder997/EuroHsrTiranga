@@ -19,16 +19,15 @@ body{
 }
 
 .box:hover{
-  background-color: rgb(4, 70, 48);
-  opacity: 0.7;
+  background-color: #33333;
   cursor:pointer;
-  border:1px solid #21409a;
+  border:1px solid rgb(17,32,70);
   border-radius:5px;
   padding-left:10px;
   padding-right:10px;
   padding-top:30px;
   padding-bottom:30px;
-  box-shadow: 7px 7px 10px rgb(99, 94, 94)
+  box-shadow: 7px 7px 10px rgb(17,32,70);
 }
 
 .box:active{
