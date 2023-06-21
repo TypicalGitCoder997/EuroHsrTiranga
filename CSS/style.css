@@ -20,7 +20,7 @@ body{
 .box:hover{
   cursor:pointer;
   background-color:#151515;
-  border:1px solid #21409a;
+  border:1px solid #001c61;
   border-radius:5px;
   padding-left:10px;
   padding-right:10px;
