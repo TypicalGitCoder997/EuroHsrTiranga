@@ -21,13 +21,13 @@ body{
 .box:hover{
   background-color: #33333;
   cursor:pointer;
-  border:1px solid rgb(17,32,70);
+  border:1px solid #112046;
   border-radius:5px;
   padding-left:10px;
   padding-right:10px;
   padding-top:30px;
   padding-bottom:30px;
-  box-shadow: 7px 7px 10px rgb(17,32,70);
+  box-shadow: 7px 7px 10px #112046;
 }
 
 .box:active{
