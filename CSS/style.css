@@ -7,9 +7,9 @@
   color:white;
   padding-left:10px;
   padding-right:10px;
-  padding-top:10px;
-  padding-bottom:10px;
-  transition: all 0.7s;
+  padding-top:20px;
+  padding-bottom:20px;
+  transition: all 0.4s;
 }
 
 .box:hover{
