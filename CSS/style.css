@@ -20,6 +20,7 @@ body{
 .box:hover{
   cursor:pointer;
   border:1px solid #21409a;
+  border-radius:4px;
   padding-left:10px;
   padding-right:10px;
   padding-top:30px;
