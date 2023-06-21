@@ -1,11 +1,11 @@
 @font-face{
-  font-family:MONTSERRAT;
+  font-family:Montserrat;
   src: url('fonts/Monserrat.ttf') format('ttf')
 }
 
 body{
   color:white;
-  font-family:MONTSERRAT;
+  font-family:Montserrat;
   background-color:black;
 }
 
