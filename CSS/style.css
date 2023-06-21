@@ -31,8 +31,8 @@ body{
   box-shadow: 7px 7px 10px #112046;
 }
 
-/*.box:active{
-  background-color: #635e5e;
+.box:active{
+  
   opacity: 0.4;
   cursor:pointer;
   border:1px solid #21409a;
