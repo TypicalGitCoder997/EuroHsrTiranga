@@ -28,6 +28,7 @@ body{
   padding-right:10px;
   padding-top:30px;
   padding-bottom:30px;
+  box-shadow: 7px 7px 10px rgb(99, 94, 94)
 }
 
 .box:active{
@@ -40,5 +41,6 @@ body{
   padding-right:11px;
   padding-top:32px;
   padding-bottom:32px;
+  box-shadow: 7px 7px 10px rgb(99, 94, 94)
 }
       
