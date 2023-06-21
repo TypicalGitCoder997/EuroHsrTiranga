@@ -20,6 +20,7 @@ body{
 
 .box:hover{
   background-color: aquamarine;
+  fill-opacity: 0.7;
   cursor:pointer;
   border:1px solid #21409a;
   border-radius:5px;
