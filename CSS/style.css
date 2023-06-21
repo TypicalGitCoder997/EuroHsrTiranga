@@ -1,9 +1,4 @@
 @font-face{
-  font-family:Montserrat;
-  src: url('https://typicalgitcoder997.github.io/EuroHsrTiranga/fonts/Montserrat.woff') format('woff');
-}
-
-@font-face{
   font-family:M-Bold;
   src: url('https://typicalgitcoder997.github.io/EuroHsrTiranga/fonts/1Montserrat-Bold.woff') format('woff');
 }
@@ -27,7 +22,7 @@
 body{
   color:white;
   font-size:24px;
-  font-family:Montserrat;
+  font-family:M-Regular;
   background-color:black;
 }
 
@@ -36,7 +31,6 @@ body{
 }
 
 .box{
-  font-family:Montserrat;
   background-color:#161616;
   color:white;
   text-align: center;
