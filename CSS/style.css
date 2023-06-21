@@ -5,7 +5,7 @@
 
 body{
   color:white;
-  font-size:24;
+  font-size:24px;
   font-family:Montserrat;
   background-color:black;
 }
@@ -28,7 +28,6 @@ body{
 
 .box:hover{
   background-color: #33333;
-  cursor:pointer;
   border:1px solid #112046;
   border-radius:5px;
   padding-left:10px;
