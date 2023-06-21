@@ -1,3 +1,8 @@
+@font-face{
+  font-family:MONTSERRAT;
+  src: url('fonts/Monserrat.ttf') format('ttf')
+}
+
 body{
   color:white;
   font-family:Arial,Helvetica,sans-serif;
