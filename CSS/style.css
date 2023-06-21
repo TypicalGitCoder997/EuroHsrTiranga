@@ -20,7 +20,7 @@ body{
 
 .box:hover{
   background-color: aquamarine;
-  fill-opacity: 0.7;
+  opacity: 0.7;
   cursor:pointer;
   border:1px solid #21409a;
   border-radius:5px;
@@ -28,5 +28,17 @@ body{
   padding-right:10px;
   padding-top:30px;
   padding-bottom:30px;
+}
+
+.box :active{
+  background-color: rgb(6, 143, 97);
+  opacity: 0.4;
+  cursor:pointer;
+  border:1px solid #21409a;
+  border-radius:6px;
+  padding-left:11px;
+  padding-right:11px;
+  padding-top:32px;
+  padding-bottom:32px;
 }
       
