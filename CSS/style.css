@@ -1,5 +1,6 @@
 body{
   color:white;
+  font-family:Arial,Helvetica,sans-serif;
   background-color:black;
 }
 
@@ -8,7 +9,7 @@ body{
 }
 
 .box{
-  background-color:black;
+  background-color:#161616;
   color:white;
   text-align: center;
   padding-left:10px;
@@ -19,20 +20,19 @@ body{
 }
 
 .box:hover{
-  background-color: rgb(4, 70, 48);
-  opacity: 0.7;
+  background-color: #33333;
   cursor:pointer;
-  border:1px solid #21409a;
+  border:1px solid #112046;
   border-radius:5px;
   padding-left:10px;
   padding-right:10px;
   padding-top:30px;
   padding-bottom:30px;
-  box-shadow: 7px 7px 10px rgb(99, 94, 94)
+  box-shadow: 7px 7px 10px #112046;
 }
 
-.box:active{
-  background-color: rgb(1, 32, 22);
+/*.box:active{
+  background-color: #635e5e;
   opacity: 0.4;
   cursor:pointer;
   border:1px solid #21409a;
@@ -41,6 +41,6 @@ body{
   padding-right:11px;
   padding-top:32px;
   padding-bottom:32px;
-  box-shadow: 7px 7px 10px rgb(99, 94, 94)
-}
+  box-shadow: 7px 7px 10px #635e5e;
+}*/
       
