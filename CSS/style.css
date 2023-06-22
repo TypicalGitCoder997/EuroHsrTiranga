@@ -74,7 +74,7 @@ body{
   display:block;
   text-align:right;
   color:white;
-  background-color:#112046;
+  background-color:#161616;
   padding:5px;
   margin-top:-5px;
   border-radius:6px;
@@ -84,12 +84,12 @@ body{
 
 .MenuButton:hover{
   color:white;
-  background-color:#203364;
+  background-color:#112046;
 }
 
 .MenuButton:active{
   color:white;
-  background-color:#33477C;
+  background-color:#273452;
 }
 
 
@@ -97,6 +97,8 @@ body{
   user-select:none;
   display:block;
   float:left;
+  margin-top:-13px;
+  margin-bottom:-25px;
 }
 
 
