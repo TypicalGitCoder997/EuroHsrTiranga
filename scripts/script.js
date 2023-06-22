@@ -7,12 +7,6 @@ let clicked = false;
 menuButton.addEventListener('click',function handleClick()){
     if(clicked)
     {
-        console.log("Closed");
-        click = false;
+        return;
     }
-    else
-    {
-        console.log("Opened");
-        click = true;
-    }
-}
+console.log("Button is clicked!");
