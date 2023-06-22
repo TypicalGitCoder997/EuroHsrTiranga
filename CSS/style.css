@@ -52,7 +52,7 @@ body{
   box-shadow: 7px 7px 10px #112046;
 }
 
-/*.box:active{
+.box:active{
   opacity: 0.4;
   cursor:pointer;
   border:1px solid #21409a;
@@ -62,5 +62,5 @@ body{
   padding-top:32px;
   padding-bottom:32px;
   box-shadow: 7px 7px 10px #635e5e;
-}*/
+}
       
