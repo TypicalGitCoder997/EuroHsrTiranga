@@ -24,7 +24,7 @@ body{
   color:white;
   font-size:2vw;
   font-family:M-Regular;
-  background-color:black;
+  background-color:#151515;
 }
 
 
@@ -35,11 +35,11 @@ body{
 
 .box{
   overflow:hidden;
-  background-color:#161616;
+  background-color:#E8E8E8;
   border:1px solid #112046;
   border-radius:5px;
   box-shadow: 7px 7px 10px #112046;
-  color:white;
+  color:#112046;
   text-align: left;
   padding-left:30px;
   padding-right:10px;
@@ -49,16 +49,16 @@ body{
 }
 
 .box:hover{
-  background-color: #101010;
+  background-color: #D5D5D5;
 }
 
 
 .boxB{
   width: 100%;
-  background-color:#161616;
+  background-color:#ffffff;
   position:fixed;
   bottom:1.1%;
-  color:white;
+  color:#112046;
   text-align: center;
   padding-left:10px;
   padding-right:10px;
@@ -92,6 +92,12 @@ body{
   background-color:#273452;
 }
 
+
+.logo{
+  user-select:none;
+  display:block;
+  float:left;
+}
 
 
 
