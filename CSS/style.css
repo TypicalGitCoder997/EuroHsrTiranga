@@ -74,3 +74,13 @@ body{
   padding-bottom:25px;
 }
       
+.MenuButton{
+  text-align:center;
+  color:white;
+  background-color:black;
+}
+
+.MenuButton:hover{
+  color:white;
+  background-color:#2F7DCA;
+}
