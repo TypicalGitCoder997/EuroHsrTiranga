@@ -74,7 +74,7 @@ body{
   display:block;
   text-align:right;
   color:white;
-  background-color:#161616;
+  background-color:#112046;
   padding:5px;
   margin-top:-5px;
   border-radius:6px;
@@ -84,12 +84,12 @@ body{
 
 .MenuButton:hover{
   color:white;
-  background-color:#112046;
+  background-color:#203364;
 }
 
 .MenuButton:active{
   color:white;
-  background-color:#273452;
+  background-color:#33477C;
 }
 
 
