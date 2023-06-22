@@ -2,8 +2,7 @@ var menuButton = document.getElementById("menuButton");
 
 let clicked = false;
 
-menuButton.addEventListener('click',function handleClick())
-{
+menuButton.addEventListener('click',function handleClick(){
     if(clicked)
     {
         console.log("Closed");
