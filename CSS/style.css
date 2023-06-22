@@ -94,11 +94,16 @@ body{
 
 
 .logo{
+  cursor:pointer;
+  width:5vw;
+  height:auto;
   user-select:none;
   display:block;
   float:left;
-  margin-top:-13px;
-  margin-bottom:-25px;
+  margin-top:-1vw;
+  margin-bottom:-1vw;
+  padding-bottom:5px;
+  padding-right:3vw;
 }
 
 
@@ -109,5 +114,8 @@ body{
 @media screen and (max-width: 570px){
   body{
     font-size:5vw;
+  }
+  .logo{
+    width:9vw;
   }
 }
