@@ -56,22 +56,14 @@ body{
   background-color:#161616;
   position:fixed;
   bottom:0%;
-  border:1px solid #112046;
-  border-radius:5px;
-  box-shadow: 7px 7px 10px #112046;
   color:white;
   text-align: center;
   padding-left:10px;
   padding-right:10px;
-  padding-top:20px;
-  padding-bottom:20px;
+  padding-top:40px;
+  padding-bottom:40px;
+  margin:-10px;
   transition: all 0.4s;
-}
-
-.boxB:hover{
-  background-color: #101010;
-  padding-top:25px;
-  padding-bottom:25px;
 }
       
 .MenuButton{
