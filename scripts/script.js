@@ -1,12 +1,15 @@
-console.log("Hello world");
-
 var menuButton = document.getElementById("menuButton");
 
 let clicked = false;
 
-menuButton.addEventListener('click',function handleClick()){
+menuButton.addEventListener('click',function handleClick())
+{
     if(clicked)
     {
-        return;
+        console.log("Closed");
     }
-console.log("Button is clicked!");
+    else
+    {
+        console.log("Opened");
+    }
+});
