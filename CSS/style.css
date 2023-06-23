@@ -67,23 +67,8 @@ body{
   margin:-10px;
   transition: all 0.4s;
 }
-
-.menuLink{
-  color: #112046;
-  cursor: pointer;
-  transition:all 0.4s;
-}
-
-.menuLink:hover{
-  color: #273452;
-}
-
-.menuLink:active{
-  color:#33477C;
-}
-
-
-/*.MenuButton{
+      
+.MenuButton{
   cursor:pointer;
   user-select:none;
   display:block;
@@ -105,7 +90,7 @@ body{
 .MenuButton:active{
   color:white;
   background-color:#33477C;
-}*/
+}
 
 
 .logo{
@@ -123,7 +108,22 @@ body{
 }
 
 
+.menuLink{
+  float:right;
+  text-decoration:none;
+  padding-right:10px;
+  color: #112046;
+  cursor: pointer;
+  transition:all 0.4s;
+}
 
+.menuLink:hover{
+  color: #273452;
+}
+
+.menuLink:active{
+  color:#33477C;
+}
 
 
 
