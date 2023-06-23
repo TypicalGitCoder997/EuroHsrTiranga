@@ -118,6 +118,7 @@ body{
 }
 
 .menuLink:hover{
+  font-size:2.1vw;
   color: #273452;
 }
 
